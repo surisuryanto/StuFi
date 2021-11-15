@@ -1,6 +1,6 @@
 # stufi
 
-A new Flutter project.
+Project Flutter aplikasi pencarian studio
 
 ## Getting Started
 
