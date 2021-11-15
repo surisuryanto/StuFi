@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:stufi/login.dart';
-// import 'package:stufi/onboardingscreen.dart';
+
 
 void main() {
   runApp(const MyApp());
